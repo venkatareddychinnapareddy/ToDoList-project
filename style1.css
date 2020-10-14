@@ -1,0 +1,35 @@
+ body {
+  width: 50%;
+  margin: 0 auto;
+  font-family: times new roman;
+  border: 2px solid salmon;
+  border-radius: 20px;
+  margin-top: 20px;
+  text-align: center;
+}
+.container{
+	width: 360px;
+}
+#inputfield{
+	width: 300px;
+	height: 50px;
+	border: 2px solid grey;
+	outline: none;
+	font-size: 25px;
+	vertical-align: middle;
+}
+#btn1{
+	height: 55px;
+	 width: 50px;
+	 border: 2px solid grey;
+	 vertical-align: middle;
+	 font-size: 20px;
+}
+.todo{
+	margin-top: 50px;
+}
+.paragraph-styling{
+	margin: 0px;
+	cursor: pointer;
+    font-style: 20px;
+}
